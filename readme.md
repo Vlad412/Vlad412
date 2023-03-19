@@ -1,3 +1,3 @@
-Sometimes I'm working on this [wean](https://app.wean.pw) app.
+Doing alot of javascript
 
-
+Playing with python sometimes
