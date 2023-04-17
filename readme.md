@@ -1,4 +1,4 @@
-Making web apps with javascript
+Javascript / Typescript / Deno
 
 Playing with python sometimes
 
